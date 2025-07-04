@@ -68,3 +68,7 @@ tests/
 # Archivos de documentación temporal
 docs/temp/
 *.md~ 
+
+# Archivos de assets
+assets/*.svg
+screenshot.png
