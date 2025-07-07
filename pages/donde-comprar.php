@@ -132,7 +132,7 @@ get_header();
       ['nombre' => 'Silca Express', 'direccion' => 'Bolivar Baliña 2612', 'telefono' => '2400 4078', 'map_link' => 'https://www.google.com/maps/dir/-34.92515,-56.15656/@-34.9251222,-56.2389611,12z?entry=ttu&g_ep=EgoyMDI1MDYxNi4wIKXMDSoASAFQAw%3D%3D'],
       ['nombre' => 'Carper', 'direccion' => 'Paysandú 1521', 'telefono' => '2901 4011', 'map_link' => 'https://www.google.com/maps/dir/-34.90154,-56.18545/@-34.9015122,-56.2678511,12z?entry=ttu&g_ep=EgoyMDI1MDYxNi4wIKXMDSoASAFQAw%3D%3D'],
       ['nombre' => 'Carper', 'direccion' => 'Br Artigas 2959', 'telefono' => '2901 4011', 'map_link' => 'https://www.google.com/maps/dir/-34.87291,-56.16736/@-34.8728822,-56.2497611,12z?entry=ttu&g_ep=EgoyMDI1MDYxNi4wIKXMDSoASAFQAw%3D%3D'],
-      ['nombre' => 'Cristofano', 'direccion' => 'Av Millan 4369', 'telefono' => '2304 4067', 'map_link' => 'https://www.google.com/maps/dir/Chevrolet+R.+Cristofano/-34.844,-56.20565/@-34.8444977,-56.2053933,18.04z/data=!4m8!4m7!1m5!1m1!1s0x95a1d5330236f577:0x1803187d197bbfe0!2m2!1d-56.2055781!2d-34.8442103!1m0?entry=ttu&g_ep=EgoyMDI1MDYxNi4wIKXMDSoASAFQAw%3D%3D'],
+      ['nombre' => 'Cristofano', 'direccion' => 'Av Millan 4389', 'telefono' => '2304 1634', 'map_link' => 'https://www.google.com/maps/dir/Chevrolet+R.+Cristofano/-34.844,-56.20565/@-34.8444977,-56.2053933,18.04z/data=!4m8!4m7!1m5!1m1!1s0x95a1d5330236f577:0x1803187d197bbfe0!2m2!1d-56.2055781!2d-34.8442103!1m0?entry=ttu&g_ep=EgoyMDI1MDYxNi4wIKXMDSoASAFQAw%3D%3D'],
       ['nombre' => 'Chevrolet Montevideo', 'direccion' => 'Giannattasio 50 y Tacuari', 'telefono' => '2604 1632', 'map_link' => 'https://www.google.com/maps/dir/-34.874,-56.03221/@-34.8739722,-56.1146111,12z?entry=ttu&g_ep=EgoyMDI1MDYxNi4wIKXMDSoASAFQAw%3D%3D'],
     ],
     'Paysandú' => [
