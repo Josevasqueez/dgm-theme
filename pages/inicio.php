@@ -42,7 +42,7 @@ get_header();
 
 <?php dgm_nuestros_productos_section(false); ?>
 
-<section class="max-w-5xl mx-auto px-8 md:px-16 my-20 text-center">
+<section class="max-w-5xl mx-auto px-8 md:px-16 mt-20 mb-8 text-center">
   <div class="flex flex-col items-center">
     <span class="uppercase font-light mb-6 text-sm md:text-xl">__ Blog __</span>
     <h2 class="max-w-2xl text-lg md:text-2xl font-bold mb-4">¿Por qué elegir repuestos originales?</h2>
@@ -51,6 +51,12 @@ get_header();
   </div>
   <div class="mt-12">
     <?php dgm_listing_post(2, false); ?>
+  </div>
+  <div class="text-white text-center text-xs">
+    <h4>Razón Social de la empresa</h4>
+    <p>TAUDEL SA</p>
+    <h4>Dirección</h4>
+    <p>Colonia 810 4013 Montevideo, Montevideo 11100 Uruguay</p>
   </div>
 </section>
 
