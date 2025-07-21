@@ -21,4 +21,14 @@ get_header();
     </div>
   </div>
 </section>
+
+<script>
+  var wpcf7Elm = document.querySelector('.wpcf7');
+
+  wpcf7Elm.addEventListener('wpcf7submit', function(event) {
+    // going to /gracias
+    window.location.href = '<?php echo esc_url(home_url('/gracias')); ?>';
+
+  }, false);
+</script>
 <?php get_footer(); ?>
